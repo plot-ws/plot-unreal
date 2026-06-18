@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.0.0",
+	"FriendlyName": "Plot Client",
+	"Description": "Plot multiplayer SDK for Unreal Engine 5.",
+	"Category": "Networking",
+	"CreatedBy": "Plot",
+	"DocsURL": "https://github.com/plot-ws/plot/tree/main/sdks/unreal",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/plot-ws/plot/issues",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PlotClient",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WebSockets",
+			"Enabled": true
+		}
+	]
+}
