@@ -117,3 +117,8 @@ matches the codegen output. **A full UE5 compile requires a licensed Unreal
 Engine and is out of CI scope** — there is no public, license-free way to run
 UnrealBuildTool / UnrealHeaderTool in CI here, so the C++ is verified by hand
 against the engine API plus the structural checks above.
+
+## Full documentation
+
+This README is the quickstart. For concepts, guides, and the server handler
+reference, see the full docs: **https://docs.plot.ws/sdks/unreal**
