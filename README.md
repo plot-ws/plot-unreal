@@ -1,3 +1,13 @@
+<p align="center"><a href="https://plot.ws"><img src=".github/banner.png" alt="Plot for Unreal" width="880"></a></p>
+
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/plot-ws/plot-unreal?color=0d0d0c" alt="License: MIT"></a>
+  <a href="https://docs.plot.ws/sdks/unreal"><img src="https://img.shields.io/badge/docs-plot.ws-0F62FE" alt="Docs"></a>
+  <a href="https://discord.gg/plot"><img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/Unreal-UE5-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine 5">
+  <img src="https://img.shields.io/badge/mirror-of%20plot--ws%2Fplot-555555" alt="Mirror of plot-ws/plot">
+</p>
+
 # Plot Unreal Engine SDK
 
 `PlotClient` — multiplayer SDK for Unreal Engine 5.
